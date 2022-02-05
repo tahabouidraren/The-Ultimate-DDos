@@ -5,7 +5,7 @@ Any windows OS
 (Tested on Win 7 and Win 10)
 - Usage : 
 Run the script (Preferably as an admin)
-And everything else you need to know is in the script
+And everything else you need to know is in the script o_-
 - Features : 
 The script is full of features specialy when its just a native script such as...
 ...The ability to Disable the firewall before launching the "attack".....
