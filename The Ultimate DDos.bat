@@ -266,13 +266,16 @@ echo [][][][][][][][][][][][][][][][]= 100 ]
 echo ---------------------------------------
 cls
 color 72
-echo THE ULTIMATE DDOS'er made by: ts._.taha
+echo THE ULTIMATE DDOS'er
+echo.
+echo All copyrights belong to @ts._.taha in IG
 echo.
 echo You can stop at anytime by clicking CTRL+C
 echo.
 echo And yeah use this at your own risk o.o
 echo.
 echo Enjoy........!
+echo.
 @pause
 cls
 :choice
@@ -316,4 +319,7 @@ ping %ip% -t -l %np%
 cls
 color 0a
 echo GO CHECK THAT WEBSITE NOW! 99.9 percent its down!
+echo.
+echo All copyrights belong to @ts._.taha in IG
+echo.
 @pause
