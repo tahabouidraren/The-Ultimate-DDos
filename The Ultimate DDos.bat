@@ -268,7 +268,7 @@ cls
 color 72
 echo THE ULTIMATE DDOS'er
 echo.
-echo All copyrights belong to @ts._.taha in IG
+echo All copyrights belong to @tahabouidraren in IG
 echo.
 echo You can stop at anytime by clicking CTRL+C
 echo.
@@ -320,6 +320,6 @@ cls
 color 0a
 echo GO CHECK THAT WEBSITE NOW! 99.9 percent its down!
 echo.
-echo All copyrights belong to @ts._.taha in IG
+echo All copyrights belong to @tahabouidraren in IG
 echo.
 @pause
